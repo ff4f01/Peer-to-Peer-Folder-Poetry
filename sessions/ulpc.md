@@ -86,6 +86,8 @@ sudo apt-get install tree
 | `ls` | 파일 및 디렉토리 목록 보기 |
 | `pwd` | 현재 위치한 디렉토리 경로 확인 |
 | `mkdir foldername` | `foldername`이라는 이름의 디렉토리 생성 |
+| `rmdir ulpc` | 빈 디렉토리 삭제 |
+| `rm -rf ulpc` | 디렉토리 삭제 (내용이 있는 디렉토리, 강력한 명령이니 주의해 쓸 것!) |
 | `touch kitty.txt` | `kitty.txt`라는 이름의 빈 파일 생성 |
 | `echo "woof woof" > kitty.txt` | "woof woof"라는 내용으로 `kitty.txt` 파일 생성 |
 | `cat kitty.txt` | 파일 내용 보기 |
