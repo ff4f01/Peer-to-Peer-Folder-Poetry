@@ -37,6 +37,7 @@ brew install tree
 #### Windows10 (WSL)
 
 ```bash
+sudo apt-get update
 sudo apt-get install tree
 ```
 
