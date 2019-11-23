@@ -15,12 +15,12 @@ git clone https://github.com/ff4f01/Peer-to-Peer-Folder-Poetry.git
 ### 2. Node.js와 Dat을 설치합시다.
 
 ```bash
+touch ~/.bash_profile
 curl https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.0/install.sh | bash
 source ~/.bash_profile
 nvm install --lts
 nvm use --lts
 npm install -g dat
-brew install tree
 ```
 
 ### 3. 그리고 tree를 설치합시다.
