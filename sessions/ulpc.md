@@ -1,6 +1,6 @@
 # Peer-to-Peer Folder Poetry – ulpc
 
-![](images/poster.png)
+![](../images/poster.png)
 
 ## 세션 준비
 
