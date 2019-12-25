@@ -20,7 +20,7 @@
 
 > [@melaniehoff](https://github.com/melaniehoff)의 오프라인 세션은 [Peer-to-Peer-Folder-Poetry 원본 저장소](https://github.com/melaniehoff/Peer-to-Peer-Folder-Poetry#workshops)에 업데이트되고 있습니다.
 
-* **[ulpc](sessions/ulpc.md) autumn 2019**
+* **[ulpc](sessions/ulpc/README.md) autumn 2019**
   * 2019/11/22 20:00
   * 2019/11/23 18:30
 

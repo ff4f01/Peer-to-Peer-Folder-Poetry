@@ -1,0 +1,43 @@
+W: `require 'RMagick'` is deprecated, please change to `require 'rmagick'`
++--------------------------------------------------------------------------------+
+|oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooooooooooooooooooo+ooooooooooooooooooooooooooooooooooooooooooooooooo|
+|ooooooooooooooo+...::ooooooo...:.:oooooooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooo:.:oo+:.+ooo+.:oooo:.ooooooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooo.+ooooo.:ooo:.oo+:++.:oooooooooooooooooooooooooooooooooooooooooooo|
+|ooooooooooooo+.+o+:....+oo:.+..  ..:oooooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooo.::........::.........o++ooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooo+.  ......  .::........ ..++oooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooo:......... . .::.....::....::ooooooooooooooooooooooooooooooooooooo|
+|ooooooooooooo+.........:.. . .::....:::....:oooooooooooooooooooooooooooooooooooo|
+|ooooooooooooo........+o+  . . .:::.....:.....+oooooooooooooooooooooooooooooooooo|
+|oooooooooooo:......:ooo. ..  . ..:......::....:+oooooooooooooooooooooooooooooooo|
+|ooooooooooo:..+:...::........ .  .:.......:....::ooooooooooooooooooooooooooooooo|
+|oooooooooo+..:+...+oo+:.    ...  . .:.......:....:+ooooooooooooooooooooooooooooo|
+|oooooooooo.......+oooo.  .. .:o:. ...........:.....:oooooooooooooooooooooooooooo|
+|ooooooooo.......oooo+:.. :. .ooo+..  ..........:.....:oooooooooooooooooooooooooo|
+|oooooooo:.:+...+o++:.              . ..................+oooooooooooooooooooooooo|
+|ooooooo+..+:..+oooooo:   .  .::::+++. ..................:ooooooooooooooooooooooo|
+|oooooo+......+ooooooo.  ..  :oooooooo:. ..................:ooooooooooooooooooooo|
+|ooooo:......ooooo++++::::....ooooooooo+. . .................+ooooooooooooooooooo|
+|ooo:..:....+o++o+ooooo:     ..oooooooooo+....................:oooooooooooooooooo|
+|oo:.......+oooooooooooo+..  .+oooooooooooo... .................+oooooooooooooooo|
+|o+.......oooooooooooooooooooooooooooooooooo:.....................ooooooooooooooo|
+|o:......ooooooooooooooooooooooooooooooooooooo.  ..................:ooooooooooooo|
+|o:....:ooooooooooooooooooooooooooooooooooooooo+. ..................:oooooooooooo|
+|ooo++ooooooooooooooooooooooooooooooooooooooooooo.. ..................+oooooooooo|
+|ooooooooooooooooooooooooooooooooooooooooooooooooo+....................:+oooooooo|
+|ooooooooooooooooooooooooooooooooooooooooooooooooooo. ....................:++oooo|
+|oooooooooooooooooooooooooooooooooooooooooooooooooooo+. ....:.................+oo|
+|oooooooooooooooooooooooooooooooooooooooooooooooooooooo:.. ..........:....:....+o|
+|ooooooooooooooooooooooooooooooooooooooooooooooooooooooo+:.........:.:::::......o|
+|oooooooooooooooooooooooooooooooooooooooooooooooooooooooooo:...............:::+oo|
+|ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo++:::::::++oooooooo|
+|oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo|
+|oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo|
++--------------------------------------------------------------------------------+

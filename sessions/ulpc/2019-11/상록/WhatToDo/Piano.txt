@@ -1,0 +1,42 @@
++--------------------------------------------------------------------------------+
+|                                                                                |
+|                                                                                |
+|                                                                                |
+|   .~.~~~.~...            ..~~.             .~.~              ~..~~~~.~         |
+|   +=========:            :==o=.           .====:            :===o=====+        |
+|   +=o==o=o=o:            +====.           ~==o=+            +o=======o+        |
+|   +oo=o==o=o:            +====~           ~===o+            :==o===o==+        |
+|   ======o===+            :oo==~           .=o==:            +=o==o=o=o+.       |
+|  .+==o==o==o:            +=o==~           .==o=+            :o===o====+        |
+|   +oooo=oooo+            +ooo=.           ~=ooo+            +ooooooooo+        |
+|   =ooooooooo+            +ooo=~           ~oooo+            +ooooooooo=.       |
+|   =ooooooooo+            +oooo~     .     .oooo+     .      +ooooooooo=        |
+|   =ooooooooo+    . .     +oooo~     .     .oooo+        .   +ooooooooo=        |
+|   =ooooooooo+     .  .   +oooo.  . . .    ~oooo+   . .      +ooooooooo+.       |
+|   =ooooooooo+   .. .     +oooo.     .  .  .oooo+    . ..    +ooooooooo=        |
+|   =ooooooooo+    .. ..   +oooo~  ... ..   ~oooo+   . . ..   +ooooooooo=.       |
+|   =ooooooooo+   . ....   +ooo=~  .......  ~oooo+   .. . .   +ooooooooo=        |
+|   =ooooooooo+   .... .   +oooo~    . .    ~oooo+   . ....   +ooooooooo=        |
+|   =ooooooooo+   ......   +oooo~  .. ....  .oooo+   .....    +ooooooooo=        |
+|   =ooooooooo+   .......  +oooo.  .......  .oooo+  ........  +ooooooooo=        |
+|   =ooooooooo+   ......   +oooo.  .......  .oooo+   ......   +ooooooooo+        |
+|   +ooooooooo+   ......   +oooo~   ...~.   ~oooo+   ......   +ooooooooo=        |
+|  .=ooooooooo+            +ooo=~           ~oooo+            +ooooooooo=.       |
+|   =ooooooooo+            +oooo~           .oooo+            +ooooooooo+        |
+|   =ooooooooo+            =oooo~           ~oooo=            +ooooooooo=        |
+|   =oooooooooo+~~~.  .~~~+ooooo=:~~~  .~~~:=ooooo+~~~.  .~~~+oooooooooo=        |
+|   =ooooooooooo====~~=====oooooo====+.+====oooooo=o===~~=====oooooooooo=.       |
+|   =oooooooooo===o=~~o==o=oooooo=o=o+.+=o==oooooo===o=~~o=o=ooooooooooo=        |
+|   =ooooooooooooooo~~=oooooooooooo=o+.+ooo=oooooooo=o=~~==ooooooooooooo=        |
+|   =ooooooooooooooo~~ooooooooooooooo+.+ooooooooooooooo~~ooooooooooooooo=.       |
+|   =ooooooooooooooo~~ooooooooooooooo= =ooooooooooooooo~~ooooooooooooooo=        |
+|   =ooooooooooooooo~~ooooooooooooooo=.=ooooooooooooooo:~ooooooooooooooo=        |
+|   =ooooooooooooooo~~ooooooooooooooo=.=ooooooooooooooo~~ooooooooooooooo=        |
+|   +ooooooooooooooo:~ooooooooooooooo= =ooooooooooooooo~~ooooooooooooooo=        |
+|  .=ooooooooooooooo~~ooooooooooooooo+.+ooooooooooooooo~~ooooooooooooooo=        |
+|   =ooooooooooooooo~~ooooooooooooooo=.=ooooooooooooooo:~ooooooooooooooo=        |
+|   +oo=oooo=oooooo=~~=ooooo=oooooooo+.+ooo=o=oo=ooo=o=~~=oooooo=oo=oooo+        |
+|   :==========+===+..==========+=+==: :==============+.~=+==========+==:        |
+|   ~:::::::::::::::  :::::::::::::::~ .:::::::::::::::  ~::::::::::::::~        |
+|                                                                                |
++--------------------------------------------------------------------------------+
